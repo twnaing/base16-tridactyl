@@ -1,0 +1,40 @@
+/* Tokyo Night Terminal Storm by Michaël Ball */
+
+:root {
+  --base00: #24283b;
+  --base01: #1a1b26;
+  --base02: #343a52;
+  --base03: #444b6a;
+  --base04: #787c99;
+  --base05: #787c99;
+  --base06: #cbccd1;
+  --base07: #d5d6db;
+  --base08: #f7768e;
+  --base09: #ff9e64;
+  --base0A: #e0af68;
+  --base0B: #41a6b5;
+  --base0C: #7dcfff;
+  --base0D: #7aa2f7;
+  --base0E: #bb9af7;
+  --base0F: #d18616;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

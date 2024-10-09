@@ -1,0 +1,40 @@
+/* vulcan by Andrey Varfolomeev */
+
+:root {
+  --base00: #041523;
+  --base01: #122339;
+  --base02: #003552;
+  --base03: #7a5759;
+  --base04: #6b6977;
+  --base05: #5b778c;
+  --base06: #333238;
+  --base07: #214d68;
+  --base08: #818591;
+  --base09: #9198a3;
+  --base0A: #adb4b9;
+  --base0B: #977d7c;
+  --base0C: #977d7c;
+  --base0D: #977d7c;
+  --base0E: #9198a3;
+  --base0F: #977d7c;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

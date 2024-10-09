@@ -1,0 +1,40 @@
+/* Ayu Dark by Khue Nguyen &lt;Z5483Y@gmail.com&gt; */
+
+:root {
+  --base00: #0f1419;
+  --base01: #131721;
+  --base02: #272d38;
+  --base03: #3e4b59;
+  --base04: #bfbdb6;
+  --base05: #e6e1cf;
+  --base06: #e6e1cf;
+  --base07: #f3f4f5;
+  --base08: #f07178;
+  --base09: #ff8f40;
+  --base0A: #ffb454;
+  --base0B: #b8cc52;
+  --base0C: #95e6cb;
+  --base0D: #59c2ff;
+  --base0E: #d2a6ff;
+  --base0F: #e6b673;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

@@ -1,0 +1,40 @@
+/* Atelier Cave by Bram de Haan (http://atelierbramdehaan.nl) */
+
+:root {
+  --base00: #19171c;
+  --base01: #26232a;
+  --base02: #585260;
+  --base03: #655f6d;
+  --base04: #7e7887;
+  --base05: #8b8792;
+  --base06: #e2dfe7;
+  --base07: #efecf4;
+  --base08: #be4678;
+  --base09: #aa573c;
+  --base0A: #a06e3b;
+  --base0B: #2a9292;
+  --base0C: #398bc6;
+  --base0D: #576ddb;
+  --base0E: #955ae7;
+  --base0F: #bf40bf;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

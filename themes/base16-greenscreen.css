@@ -1,0 +1,40 @@
+/* Green Screen by Chris Kempson (http://chriskempson.com) */
+
+:root {
+  --base00: #001100;
+  --base01: #003300;
+  --base02: #005500;
+  --base03: #007700;
+  --base04: #009900;
+  --base05: #00bb00;
+  --base06: #00dd00;
+  --base07: #00ff00;
+  --base08: #007700;
+  --base09: #009900;
+  --base0A: #007700;
+  --base0B: #00bb00;
+  --base0C: #005500;
+  --base0D: #009900;
+  --base0E: #00bb00;
+  --base0F: #005500;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

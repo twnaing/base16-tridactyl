@@ -1,0 +1,40 @@
+/* Embers by Jannik Siebert (https://github.com/janniks) */
+
+:root {
+  --base00: #16130f;
+  --base01: #2c2620;
+  --base02: #433b32;
+  --base03: #5a5047;
+  --base04: #8a8075;
+  --base05: #a39a90;
+  --base06: #beb6ae;
+  --base07: #dbd6d1;
+  --base08: #826d57;
+  --base09: #828257;
+  --base0A: #6d8257;
+  --base0B: #57826d;
+  --base0C: #576d82;
+  --base0D: #6d5782;
+  --base0E: #82576d;
+  --base0F: #825757;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

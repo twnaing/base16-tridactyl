@@ -1,0 +1,40 @@
+/* tarot by ed (https://codeberg.org/ed) */
+
+:root {
+  --base00: #0e091d;
+  --base01: #2a153c;
+  --base02: #4b2054;
+  --base03: #74316b;
+  --base04: #8c406f;
+  --base05: #aa556f;
+  --base06: #c4686d;
+  --base07: #dc8f7c;
+  --base08: #c53253;
+  --base09: #ea4d60;
+  --base0A: #ff6565;
+  --base0B: #a68e5a;
+  --base0C: #8c9785;
+  --base0D: #6e6080;
+  --base0E: #a45782;
+  --base0F: #984d51;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

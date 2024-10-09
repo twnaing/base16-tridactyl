@@ -1,0 +1,40 @@
+/* Cupcake by Chris Kempson (http://chriskempson.com) */
+
+:root {
+  --base00: #fbf1f2;
+  --base01: #f2f1f4;
+  --base02: #d8d5dd;
+  --base03: #bfb9c6;
+  --base04: #a59daf;
+  --base05: #8b8198;
+  --base06: #72677e;
+  --base07: #585062;
+  --base08: #d57e85;
+  --base09: #ebb790;
+  --base0A: #dcb16c;
+  --base0B: #a3b367;
+  --base0C: #69a9a7;
+  --base0D: #7297b9;
+  --base0E: #bb99b4;
+  --base0F: #baa58c;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

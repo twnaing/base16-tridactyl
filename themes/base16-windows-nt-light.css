@@ -1,0 +1,40 @@
+/* Windows NT Light by Fergus Collins (https://github.com/C-Fergus) */
+
+:root {
+  --base00: #ffffff;
+  --base01: #eaeaea;
+  --base02: #d5d5d5;
+  --base03: #c0c0c0;
+  --base04: #a0a0a0;
+  --base05: #808080;
+  --base06: #404040;
+  --base07: #000000;
+  --base08: #800000;
+  --base09: #ffff00;
+  --base0A: #808000;
+  --base0B: #008000;
+  --base0C: #008080;
+  --base0D: #000080;
+  --base0E: #800080;
+  --base0F: #00ff00;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

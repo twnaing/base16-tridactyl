@@ -1,0 +1,40 @@
+/* Vesper by FormalSnake (https://github.com/formalsnake) */
+
+:root {
+  --base00: #101010;
+  --base01: #232323;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #b7b7b7;
+  --base06: #c1c1c1;
+  --base07: #d5d5d5;
+  --base08: #de6e6e;
+  --base09: #dab083;
+  --base0A: #ffc799;
+  --base0B: #5f8787;
+  --base0C: #60a592;
+  --base0D: #8eaaaa;
+  --base0E: #d69094;
+  --base0F: #876c4f;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

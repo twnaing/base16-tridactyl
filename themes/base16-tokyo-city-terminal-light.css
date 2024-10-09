@@ -1,0 +1,40 @@
+/* Tokyo City Terminal Light by Michaël Ball */
+
+:root {
+  --base00: #fbfbfd;
+  --base01: #f6f6f8;
+  --base02: #d8e2ec;
+  --base03: #b7c5d3;
+  --base04: #526270;
+  --base05: #28323a;
+  --base06: #1d252c;
+  --base07: #171d23;
+  --base08: #8c4351;
+  --base09: #965027;
+  --base0A: #8f5e15;
+  --base0B: #33635c;
+  --base0C: #0f4b6e;
+  --base0D: #34548a;
+  --base0E: #5a4a78;
+  --base0F: #7e5140;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

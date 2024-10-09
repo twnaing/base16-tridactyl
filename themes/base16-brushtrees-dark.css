@@ -1,0 +1,40 @@
+/* Brush Trees Dark by Abraham White &lt;abelincoln.white@gmail.com&gt; */
+
+:root {
+  --base00: #485867;
+  --base01: #5a6d7a;
+  --base02: #6d828e;
+  --base03: #8299a1;
+  --base04: #98afb5;
+  --base05: #b0c5c8;
+  --base06: #c9dbdc;
+  --base07: #e3efef;
+  --base08: #b38686;
+  --base09: #d8bba2;
+  --base0A: #aab386;
+  --base0B: #87b386;
+  --base0C: #86b3b3;
+  --base0D: #868cb3;
+  --base0E: #b386b2;
+  --base0F: #b39f9f;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

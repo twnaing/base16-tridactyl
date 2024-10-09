@@ -1,0 +1,40 @@
+/* Precious Dark Fifteen by 4lex4 &lt;4lex49@zoho.com&gt; */
+
+:root {
+  --base00: #23262b;
+  --base01: #303337;
+  --base02: #3e4044;
+  --base03: #898989;
+  --base04: #abaaa8;
+  --base05: #bab9b6;
+  --base06: #bab9b6;
+  --base07: #bab9b6;
+  --base08: #ff8782;
+  --base09: #e99857;
+  --base0A: #cfa546;
+  --base0B: #95b659;
+  --base0C: #42bda7;
+  --base0D: #66b0ef;
+  --base0E: #b799ff;
+  --base0F: #f382d8;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

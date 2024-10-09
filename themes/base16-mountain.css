@@ -1,0 +1,40 @@
+/* Mountain by gnsfujiwara (https://github.com/gnsfujiwara) */
+
+:root {
+  --base00: #0f0f0f;
+  --base01: #191919;
+  --base02: #262626;
+  --base03: #4c4c4c;
+  --base04: #ac8a8c;
+  --base05: #cacaca;
+  --base06: #e7e7e7;
+  --base07: #f0f0f0;
+  --base08: #ac8a8c;
+  --base09: #ceb188;
+  --base0A: #aca98a;
+  --base0B: #8aac8b;
+  --base0C: #8aabac;
+  --base0D: #8f8aac;
+  --base0E: #ac8aac;
+  --base0F: #ac8a8c;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

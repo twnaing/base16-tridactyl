@@ -1,0 +1,40 @@
+/* Edge Light by cjayross (https://github.com/cjayross) */
+
+:root {
+  --base00: #fafafa;
+  --base01: #7c9f4b;
+  --base02: #d69822;
+  --base03: #5e646f;
+  --base04: #6587bf;
+  --base05: #5e646f;
+  --base06: #b870ce;
+  --base07: #5e646f;
+  --base08: #db7070;
+  --base09: #db7070;
+  --base0A: #d69822;
+  --base0B: #7c9f4b;
+  --base0C: #509c93;
+  --base0D: #6587bf;
+  --base0E: #b870ce;
+  --base0F: #509c93;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

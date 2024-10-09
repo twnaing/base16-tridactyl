@@ -1,0 +1,40 @@
+/* Blueish by Ben Mayoras */
+
+:root {
+  --base00: #182430;
+  --base01: #243c54;
+  --base02: #46290a;
+  --base03: #616d78;
+  --base04: #74afe7;
+  --base05: #c8e1f8;
+  --base06: #ddeaf6;
+  --base07: #8f98a0;
+  --base08: #4ce587;
+  --base09: #f6a85c;
+  --base0A: #82aaff;
+  --base0B: #c3e88d;
+  --base0C: #5fd1ff;
+  --base0D: #82aaff;
+  --base0E: #ff84dd;
+  --base0F: #bbd2e8;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

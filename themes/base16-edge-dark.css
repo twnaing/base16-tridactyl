@@ -1,0 +1,40 @@
+/* Edge Dark by cjayross (https://github.com/cjayross) */
+
+:root {
+  --base00: #262729;
+  --base01: #88909f;
+  --base02: #b7bec9;
+  --base03: #3e4249;
+  --base04: #73b3e7;
+  --base05: #b7bec9;
+  --base06: #d390e7;
+  --base07: #3e4249;
+  --base08: #e77171;
+  --base09: #e77171;
+  --base0A: #dbb774;
+  --base0B: #a1bf78;
+  --base0C: #5ebaa5;
+  --base0D: #73b3e7;
+  --base0E: #d390e7;
+  --base0F: #5ebaa5;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

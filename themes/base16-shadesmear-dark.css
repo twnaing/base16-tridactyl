@@ -1,0 +1,40 @@
+/* ShadeSmear Dark by Kyle Giammarco (http://kyle.giammar.co) */
+
+:root {
+  --base00: #232323;
+  --base01: #1c1c1c;
+  --base02: #4e4e4e;
+  --base03: #c0c0c0;
+  --base04: #e4e4e4;
+  --base05: #dbdbdb;
+  --base06: #e4e4e4;
+  --base07: #1c1c1c;
+  --base08: #cc5450;
+  --base09: #a64270;
+  --base0A: #307878;
+  --base0B: #71983b;
+  --base0C: #c57d42;
+  --base0D: #376388;
+  --base0E: #d7ab54;
+  --base0F: #6d6d6d;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

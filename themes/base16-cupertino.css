@@ -1,0 +1,40 @@
+/* Cupertino by Defman21 */
+
+:root {
+  --base00: #ffffff;
+  --base01: #c0c0c0;
+  --base02: #c0c0c0;
+  --base03: #808080;
+  --base04: #808080;
+  --base05: #404040;
+  --base06: #404040;
+  --base07: #5e5e5e;
+  --base08: #c41a15;
+  --base09: #eb8500;
+  --base0A: #826b28;
+  --base0B: #007400;
+  --base0C: #318495;
+  --base0D: #0000ff;
+  --base0E: #a90d91;
+  --base0F: #826b28;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

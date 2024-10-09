@@ -1,0 +1,40 @@
+/* Mellow Purple by gidsi */
+
+:root {
+  --base00: #1e0528;
+  --base01: #1a092d;
+  --base02: #331354;
+  --base03: #320f55;
+  --base04: #873582;
+  --base05: #ffeeff;
+  --base06: #ffeeff;
+  --base07: #f8c0ff;
+  --base08: #00d9e9;
+  --base09: #aa00a3;
+  --base0A: #955ae7;
+  --base0B: #05cb0d;
+  --base0C: #b900b1;
+  --base0D: #550068;
+  --base0E: #8991bb;
+  --base0F: #4d6fff;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

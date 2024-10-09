@@ -1,0 +1,40 @@
+/* Paraiso by Jan T. Sott */
+
+:root {
+  --base00: #2f1e2e;
+  --base01: #41323f;
+  --base02: #4f424c;
+  --base03: #776e71;
+  --base04: #8d8687;
+  --base05: #a39e9b;
+  --base06: #b9b6b0;
+  --base07: #e7e9db;
+  --base08: #ef6155;
+  --base09: #f99b15;
+  --base0A: #fec418;
+  --base0B: #48b685;
+  --base0C: #5bc4bf;
+  --base0D: #06b6ef;
+  --base0E: #815ba4;
+  --base0F: #e96ba8;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

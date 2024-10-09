@@ -1,0 +1,40 @@
+/* Black Metal (Marduk) by metalelf0 (https://github.com/metalelf0) */
+
+:root {
+  --base00: #000000;
+  --base01: #121212;
+  --base02: #222222;
+  --base03: #333333;
+  --base04: #999999;
+  --base05: #c1c1c1;
+  --base06: #999999;
+  --base07: #c1c1c1;
+  --base08: #5f8787;
+  --base09: #aaaaaa;
+  --base0A: #626b67;
+  --base0B: #a5aaa7;
+  --base0C: #aaaaaa;
+  --base0D: #888888;
+  --base0E: #999999;
+  --base0F: #444444;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

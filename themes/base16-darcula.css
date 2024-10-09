@@ -1,0 +1,40 @@
+/* Darcula by jetbrains */
+
+:root {
+  --base00: #2b2b2b;
+  --base01: #323232;
+  --base02: #323232;
+  --base03: #606366;
+  --base04: #a4a3a3;
+  --base05: #a9b7c6;
+  --base06: #ffc66d;
+  --base07: #ffffff;
+  --base08: #4eade5;
+  --base09: #689757;
+  --base0A: #bbb529;
+  --base0B: #6a8759;
+  --base0C: #629755;
+  --base0D: #9876aa;
+  --base0E: #cc7832;
+  --base0F: #808080;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

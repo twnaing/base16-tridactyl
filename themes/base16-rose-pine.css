@@ -1,0 +1,40 @@
+/* Rosé Pine by Emilia Dunfelt &lt;edun@dunfelt.se&gt; */
+
+:root {
+  --base00: #191724;
+  --base01: #1f1d2e;
+  --base02: #26233a;
+  --base03: #6e6a86;
+  --base04: #908caa;
+  --base05: #e0def4;
+  --base06: #e0def4;
+  --base07: #524f67;
+  --base08: #eb6f92;
+  --base09: #f6c177;
+  --base0A: #ebbcba;
+  --base0B: #31748f;
+  --base0C: #9ccfd8;
+  --base0D: #c4a7e7;
+  --base0E: #f6c177;
+  --base0F: #524f67;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

@@ -1,0 +1,40 @@
+/* Primer Light by Jimmy Lin */
+
+:root {
+  --base00: #fafbfc;
+  --base01: #e1e4e8;
+  --base02: #d1d5da;
+  --base03: #959da5;
+  --base04: #444d56;
+  --base05: #2f363d;
+  --base06: #24292e;
+  --base07: #1b1f23;
+  --base08: #d73a49;
+  --base09: #f66a0a;
+  --base0A: #ffd33d;
+  --base0B: #28a745;
+  --base0C: #79b8ff;
+  --base0D: #0366d6;
+  --base0E: #ea4aaa;
+  --base0F: #a04100;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

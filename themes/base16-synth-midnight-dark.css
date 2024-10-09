@@ -1,0 +1,40 @@
+/* Synth Midnight Terminal Dark by Michaël Ball (http://github.com/michael-ball/) */
+
+:root {
+  --base00: #050608;
+  --base01: #1a1b1c;
+  --base02: #28292a;
+  --base03: #474849;
+  --base04: #a3a5a6;
+  --base05: #c1c3c4;
+  --base06: #cfd1d2;
+  --base07: #dddfe0;
+  --base08: #b53b50;
+  --base09: #ea770d;
+  --base0A: #c9d364;
+  --base0B: #06ea61;
+  --base0C: #42fff9;
+  --base0D: #03aeff;
+  --base0E: #ea5ce2;
+  --base0F: #cd6320;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

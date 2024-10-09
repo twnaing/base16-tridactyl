@@ -1,0 +1,40 @@
+/* Blue Forest by alonsodomin (https://github.com/alonsodomin) */
+
+:root {
+  --base00: #141f2e;
+  --base01: #1e5c1e;
+  --base02: #273e5c;
+  --base03: #a0ffa0;
+  --base04: #1e5c1e;
+  --base05: #ffcc33;
+  --base06: #91ccff;
+  --base07: #375780;
+  --base08: #fffab1;
+  --base09: #ff8080;
+  --base0A: #91ccff;
+  --base0B: #80ff80;
+  --base0C: #80ff80;
+  --base0D: #a2cff5;
+  --base0E: #0099ff;
+  --base0F: #e7e7e7;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

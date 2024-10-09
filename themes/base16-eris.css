@@ -1,0 +1,40 @@
+/* eris by ed (https://codeberg.org/ed) */
+
+:root {
+  --base00: #0a0920;
+  --base01: #13133a;
+  --base02: #23255a;
+  --base03: #333773;
+  --base04: #4a5293;
+  --base05: #606bac;
+  --base06: #7986c5;
+  --base07: #9aaae5;
+  --base08: #f768a3;
+  --base09: #f768a3;
+  --base0A: #faaea2;
+  --base0B: #faaea2;
+  --base0C: #258fc4;
+  --base0D: #258fc4;
+  --base0E: #f768a3;
+  --base0F: #f768a3;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

@@ -1,0 +1,40 @@
+/* Precious Light White by 4lex4 &lt;4lex49@zoho.com&gt; */
+
+:root {
+  --base00: #ffffff;
+  --base01: #ededed;
+  --base02: #dbdbdb;
+  --base03: #848484;
+  --base04: #636363;
+  --base05: #555555;
+  --base06: #555555;
+  --base07: #555555;
+  --base08: #af4947;
+  --base09: #a0570d;
+  --base0A: #876500;
+  --base0B: #557301;
+  --base0C: #087767;
+  --base0D: #186daa;
+  --base0E: #7b4ecb;
+  --base0F: #a93e93;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

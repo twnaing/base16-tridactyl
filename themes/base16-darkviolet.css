@@ -1,0 +1,40 @@
+/* Dark Violet by ruler501 (https://github.com/ruler501/base16-darkviolet) */
+
+:root {
+  --base00: #000000;
+  --base01: #231a40;
+  --base02: #432d59;
+  --base03: #593380;
+  --base04: #00ff00;
+  --base05: #b08ae6;
+  --base06: #9045e6;
+  --base07: #a366ff;
+  --base08: #a82ee6;
+  --base09: #bb66cc;
+  --base0A: #f29df2;
+  --base0B: #4595e6;
+  --base0C: #40dfff;
+  --base0D: #4136d9;
+  --base0E: #7e5ce6;
+  --base0F: #a886bf;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

@@ -1,0 +1,40 @@
+/* dirtysea by Kahlil (Kal) Hodgson */
+
+:root {
+  --base00: #e0e0e0;
+  --base01: #d0dad0;
+  --base02: #d0d0d0;
+  --base03: #707070;
+  --base04: #202020;
+  --base05: #000000;
+  --base06: #f8f8f8;
+  --base07: #c4d9c4;
+  --base08: #840000;
+  --base09: #006565;
+  --base0A: #755b00;
+  --base0B: #730073;
+  --base0C: #755b00;
+  --base0D: #007300;
+  --base0E: #000090;
+  --base0F: #755b00;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

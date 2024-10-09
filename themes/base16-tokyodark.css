@@ -1,0 +1,40 @@
+/* Tokyodark by Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim) */
+
+:root {
+  --base00: #11121d;
+  --base01: #212234;
+  --base02: #212234;
+  --base03: #353945;
+  --base04: #4a5057;
+  --base05: #a0a8cd;
+  --base06: #abb2bf;
+  --base07: #bcc2dc;
+  --base08: #ee6d85;
+  --base09: #f6955b;
+  --base0A: #d7a65f;
+  --base0B: #95c561;
+  --base0C: #9fbbf3;
+  --base0D: #7199ee;
+  --base0E: #a485dd;
+  --base0F: #773440;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

@@ -1,0 +1,40 @@
+/* Equilibrium Dark by Carlo Abelli */
+
+:root {
+  --base00: #0c1118;
+  --base01: #181c22;
+  --base02: #22262d;
+  --base03: #7b776e;
+  --base04: #949088;
+  --base05: #afaba2;
+  --base06: #cac6bd;
+  --base07: #e7e2d9;
+  --base08: #f04339;
+  --base09: #df5923;
+  --base0A: #bb8801;
+  --base0B: #7f8b00;
+  --base0C: #00948b;
+  --base0D: #008dd1;
+  --base0E: #6a7fd2;
+  --base0F: #e3488e;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

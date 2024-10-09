@@ -1,0 +1,40 @@
+/* Catppuccin Latte by https://github.com/catppuccin/catppuccin */
+
+:root {
+  --base00: #eff1f5;
+  --base01: #e6e9ef;
+  --base02: #ccd0da;
+  --base03: #bcc0cc;
+  --base04: #acb0be;
+  --base05: #4c4f69;
+  --base06: #dc8a78;
+  --base07: #7287fd;
+  --base08: #d20f39;
+  --base09: #fe640b;
+  --base0A: #df8e1d;
+  --base0B: #40a02b;
+  --base0C: #179299;
+  --base0D: #1e66f5;
+  --base0E: #8839ef;
+  --base0F: #dd7878;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

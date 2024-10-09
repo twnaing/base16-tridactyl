@@ -1,0 +1,40 @@
+/* Materia by Defman21 */
+
+:root {
+  --base00: #263238;
+  --base01: #2c393f;
+  --base02: #37474f;
+  --base03: #707880;
+  --base04: #c9ccd3;
+  --base05: #cdd3de;
+  --base06: #d5dbe5;
+  --base07: #ffffff;
+  --base08: #ec5f67;
+  --base09: #ea9560;
+  --base0A: #ffcc00;
+  --base0B: #8bd649;
+  --base0C: #80cbc4;
+  --base0D: #89ddff;
+  --base0E: #82aaff;
+  --base0F: #ec5f67;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

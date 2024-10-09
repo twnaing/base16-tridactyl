@@ -1,0 +1,40 @@
+/* Everforest by Sainnhe Park (https://github.com/sainnhe) */
+
+:root {
+  --base00: #2d353b;
+  --base01: #343f44;
+  --base02: #475258;
+  --base03: #859289;
+  --base04: #9da9a0;
+  --base05: #d3c6aa;
+  --base06: #e6e2cc;
+  --base07: #fdf6e3;
+  --base08: #e67e80;
+  --base09: #e69875;
+  --base0A: #dbbc7f;
+  --base0B: #a7c080;
+  --base0C: #83c092;
+  --base0D: #7fbbb3;
+  --base0E: #d699b6;
+  --base0F: #9da9a0;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

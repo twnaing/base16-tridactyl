@@ -1,0 +1,40 @@
+/* standardized-light by ali (https://github.com/ali-githb/base16-standardized-scheme) */
+
+:root {
+  --base00: #ffffff;
+  --base01: #eeeeee;
+  --base02: #cccccc;
+  --base03: #767676;
+  --base04: #767676;
+  --base05: #444444;
+  --base06: #333333;
+  --base07: #222222;
+  --base08: #d03e3e;
+  --base09: #d7691d;
+  --base0A: #ad8200;
+  --base0B: #31861f;
+  --base0C: #00998f;
+  --base0D: #3173c5;
+  --base0E: #9e57c2;
+  --base0F: #895025;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

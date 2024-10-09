@@ -1,0 +1,40 @@
+/* Atelier Forest Light by Bram de Haan (http://atelierbramdehaan.nl) */
+
+:root {
+  --base00: #f1efee;
+  --base01: #e6e2e0;
+  --base02: #a8a19f;
+  --base03: #9c9491;
+  --base04: #766e6b;
+  --base05: #68615e;
+  --base06: #2c2421;
+  --base07: #1b1918;
+  --base08: #f22c40;
+  --base09: #df5320;
+  --base0A: #c38418;
+  --base0B: #7b9726;
+  --base0C: #3d97b8;
+  --base0D: #407ee7;
+  --base0E: #6666ea;
+  --base0F: #c33ff3;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

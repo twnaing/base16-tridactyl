@@ -1,0 +1,40 @@
+/* Ashes by Jannik Siebert (https://github.com/janniks) */
+
+:root {
+  --base00: #1c2023;
+  --base01: #393f45;
+  --base02: #565e65;
+  --base03: #747c84;
+  --base04: #adb3ba;
+  --base05: #c7ccd1;
+  --base06: #dfe2e5;
+  --base07: #f3f4f5;
+  --base08: #c7ae95;
+  --base09: #c7c795;
+  --base0A: #aec795;
+  --base0B: #95c7ae;
+  --base0C: #95aec7;
+  --base0D: #ae95c7;
+  --base0E: #c795ae;
+  --base0F: #c79595;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

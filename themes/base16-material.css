@@ -1,0 +1,40 @@
+/* Material by Nate Peterson */
+
+:root {
+  --base00: #263238;
+  --base01: #2e3c43;
+  --base02: #314549;
+  --base03: #546e7a;
+  --base04: #b2ccd6;
+  --base05: #eeffff;
+  --base06: #eeffff;
+  --base07: #ffffff;
+  --base08: #f07178;
+  --base09: #f78c6c;
+  --base0A: #ffcb6b;
+  --base0B: #c3e88d;
+  --base0C: #89ddff;
+  --base0D: #82aaff;
+  --base0E: #c792ea;
+  --base0F: #ff5370;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

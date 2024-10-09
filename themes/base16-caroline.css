@@ -1,0 +1,40 @@
+/* caroline by ed (https://codeberg.org/ed) */
+
+:root {
+  --base00: #1c1213;
+  --base01: #3a2425;
+  --base02: #563837;
+  --base03: #6d4745;
+  --base04: #8b5d57;
+  --base05: #a87569;
+  --base06: #c58d7b;
+  --base07: #e3a68c;
+  --base08: #c24f57;
+  --base09: #a63650;
+  --base0A: #f28171;
+  --base0B: #806c61;
+  --base0C: #6b6566;
+  --base0D: #684c59;
+  --base0E: #a63650;
+  --base0F: #893f45;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

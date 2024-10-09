@@ -1,0 +1,40 @@
+/* Hopscotch by Jan T. Sott */
+
+:root {
+  --base00: #322931;
+  --base01: #433b42;
+  --base02: #5c545b;
+  --base03: #797379;
+  --base04: #989498;
+  --base05: #b9b5b8;
+  --base06: #d5d3d5;
+  --base07: #ffffff;
+  --base08: #dd464c;
+  --base09: #fd8b19;
+  --base0A: #fdcc59;
+  --base0B: #8fc13e;
+  --base0C: #149b93;
+  --base0D: #1290bf;
+  --base0E: #c85e7c;
+  --base0F: #b33508;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

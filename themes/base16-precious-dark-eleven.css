@@ -1,0 +1,40 @@
+/* Precious Dark Eleven by 4lex4 &lt;4lex49@zoho.com&gt; */
+
+:root {
+  --base00: #1c1e20;
+  --base01: #292b2d;
+  --base02: #37393a;
+  --base03: #858585;
+  --base04: #a8a8a7;
+  --base05: #b8b7b6;
+  --base06: #b8b7b6;
+  --base07: #b8b7b6;
+  --base08: #ff8782;
+  --base09: #ea9755;
+  --base0A: #d0a543;
+  --base0B: #95b658;
+  --base0C: #42bda7;
+  --base0D: #68b0ee;
+  --base0E: #b799fe;
+  --base0F: #f382d8;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

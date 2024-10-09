@@ -1,0 +1,40 @@
+/* selenized-white by Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali */
+
+:root {
+  --base00: #ffffff;
+  --base01: #ebebeb;
+  --base02: #cdcdcd;
+  --base03: #878787;
+  --base04: #878787;
+  --base05: #474747;
+  --base06: #282828;
+  --base07: #282828;
+  --base08: #bf0000;
+  --base09: #ba3700;
+  --base0A: #af8500;
+  --base0B: #008400;
+  --base0C: #009a8a;
+  --base0D: #0054cf;
+  --base0E: #6b40c3;
+  --base0F: #dd0f9d;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

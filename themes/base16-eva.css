@@ -1,0 +1,40 @@
+/* Eva by kjakapat (https://github.com/kjakapat) */
+
+:root {
+  --base00: #2a3b4d;
+  --base01: #3d566f;
+  --base02: #4b6988;
+  --base03: #55799c;
+  --base04: #7e90a3;
+  --base05: #9fa2a6;
+  --base06: #d6d7d9;
+  --base07: #ffffff;
+  --base08: #c4676c;
+  --base09: #ff9966;
+  --base0A: #ffff66;
+  --base0B: #66ff66;
+  --base0C: #4b8f77;
+  --base0D: #15f4ee;
+  --base0E: #9c6cd3;
+  --base0F: #bb64a9;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

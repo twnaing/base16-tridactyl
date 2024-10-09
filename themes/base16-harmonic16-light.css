@@ -1,0 +1,40 @@
+/* Harmonic16 Light by Jannik Siebert (https://github.com/janniks) */
+
+:root {
+  --base00: #f7f9fb;
+  --base01: #e5ebf1;
+  --base02: #cbd6e2;
+  --base03: #aabcce;
+  --base04: #627e99;
+  --base05: #405c79;
+  --base06: #223b54;
+  --base07: #0b1c2c;
+  --base08: #bf8b56;
+  --base09: #bfbf56;
+  --base0A: #8bbf56;
+  --base0B: #56bf8b;
+  --base0C: #568bbf;
+  --base0D: #8b56bf;
+  --base0E: #bf568b;
+  --base0F: #bf5656;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}

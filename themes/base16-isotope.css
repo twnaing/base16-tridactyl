@@ -1,0 +1,40 @@
+/* Isotope by Jan T. Sott */
+
+:root {
+  --base00: #000000;
+  --base01: #404040;
+  --base02: #606060;
+  --base03: #808080;
+  --base04: #c0c0c0;
+  --base05: #d0d0d0;
+  --base06: #e0e0e0;
+  --base07: #ffffff;
+  --base08: #ff0000;
+  --base09: #ff9900;
+  --base0A: #ff0099;
+  --base0B: #33ff00;
+  --base0C: #00ffff;
+  --base0D: #0066ff;
+  --base0E: #cc00ff;
+  --base0F: #3300ff;
+}
+
+:root {
+    --tridactyl-fg: var(--base05);
+    --tridactyl-bg: var(--base00);
+    --tridactyl-url-fg: var(--base08);
+    --tridactyl-url-bg: var(--base00);
+    --tridactyl-highlight-box-bg: var(--base0B);
+    --tridactyl-highlight-box-fg: var(--base00);
+
+    /* Hint character tags */
+    --tridactyl-hintspan-fg: var(--base00) !important;
+    --tridactyl-hintspan-bg: var(--base0A) !important;
+
+    /* Element Highlights */
+    --tridactyl-hint-active-fg: none;
+    --tridactyl-hint-active-bg: none;
+    --tridactyl-hint-active-outline: none;
+    --tridactyl-hint-bg: none;
+    --tridactyl-hint-outline: none;
+}
